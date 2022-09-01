@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872033571711",
+    "project_id": "quick-cab-e0c95",
+    "storage_bucket": "quick-cab-e0c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872033571711:android:15019ba3cd76735e88004a",
+        "android_client_info": {
+          "package_name": "com.tarunguptaraja.quickcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872033571711-qohbeu470ecj2nm1a7ldcvhq9jut8c5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarunguptaraja.quickcabs",
+            "certificate_hash": "79b32c078350f63668057ccdef7abd9ba2dac3c8"
+          }
+        },
+        {
+          "client_id": "872033571711-6bhor1uc57n9ev4e7ht4ukdlugbm2bn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsH7U4r88chdPrY6-F_7OsxQzSmit7C8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872033571711-6bhor1uc57n9ev4e7ht4ukdlugbm2bn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
